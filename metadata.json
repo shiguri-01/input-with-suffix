@@ -1,0 +1,5 @@
+{
+  "name": "Suffix Input Component",
+  "description": "A React input component that elegantly displays a suffix immediately following the entered text, providing a seamless user experience.",
+  "requestFramePermissions": []
+}
